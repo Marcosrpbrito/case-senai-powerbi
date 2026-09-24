@@ -18,4 +18,4 @@ O painel interativo foi desenvolvido em Power BI e cruza dados de projetos, fatu
 2. Abra o arquivo utilizando o [Microsoft Power BI Desktop](https://powerbi.microsoft.com/desktop/).
 
 ## 🎥 Apresentação Executiva
-1. Faça o download do arquivo `CASE SENAI - Power Bi.pbix` disponível nos arquivos deste repositório.
+1. Faça o download do arquivo `Análise Power BI, Cancelamentos e Oportunidades.mp4` disponível nos arquivos deste repositório.
