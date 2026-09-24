@@ -14,8 +14,8 @@ O painel interativo foi desenvolvido em Power BI e cruza dados de projetos, fatu
 - **Plano de Ação Estratégico:** A proposta é ajustar o escopo de novos projetos, diminuindo o tempo de entrega das Sprints através de metodologias ágeis supervisionadas. A mitigação desses atrasos abre margem para um crescimento estimado de 13% na captação e atendimento de novos contratos.
 
 ## 📂 Como visualizar o projeto
-1. Faça o download do arquivo `CASE SENAI - TÉCNOLOGIA.pbix` disponível nos arquivos deste repositório.
+1. Faça o download do arquivo `CASE SENAI - Power Bi.pbix` disponível nos arquivos deste repositório.
 2. Abra o arquivo utilizando o [Microsoft Power BI Desktop](https://powerbi.microsoft.com/desktop/).
 
 ## 🎥 Apresentação Executiva
-[Insira o link do seu vídeo aqui - ex: YouTube ou Google Drive]
+1. Faça o download do arquivo `CASE SENAI - Power Bi.pbix` disponível nos arquivos deste repositório.
